@@ -54,6 +54,7 @@ discount = 0.1     # 통신사 할인율
 total = (cola*nCola+hamburger*nHamburger)*(1-discount)
 print("total = %d"%total)
 
+
 nCola = 2000         #콜라 재고 개수
 nEvent = nCola // 3    # 2+1 이벤트 가능한 횟수
 print("이벤트 가능한 횟수 : %d "%nEvent)
@@ -87,7 +88,7 @@ milk = 1500
 
 ## 바코드 스캐닝 시작
 total += cola
-total +=hamburger
+total += hamburger
 total += milk                      # total = total+cola+hamburger+milk
 
 total
