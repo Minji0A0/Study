@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 public class Chicken implements Birds, LandAnimals {
     public void fly(){

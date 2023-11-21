@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 public abstract class FourWheeler extends Vehicle{
     public abstract void brand();

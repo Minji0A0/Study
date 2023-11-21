@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 // 일반클래스
 public class Rectangle extends Shape{
     double length;

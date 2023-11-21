@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 //Animal를 상속받는 일반 클래스
 public class Cat extends Animal{
     public void sound(){

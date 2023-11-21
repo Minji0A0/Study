@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 //Car의 자식클래스
 public class ElectricCar implements Car2 {

@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 public class Cat2 implements Animal2{
     public void sound(){

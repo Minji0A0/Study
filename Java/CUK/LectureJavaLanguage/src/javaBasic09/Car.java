@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 // 추상클래스
 public class Car extends FourWheeler {

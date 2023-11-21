@@ -1,4 +1,4 @@
-package javaBasic08;
+package javaBasic09;
 
 public interface Birds {
     public void fly();
