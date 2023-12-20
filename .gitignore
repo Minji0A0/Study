@@ -12,8 +12,7 @@ properties/
 .idea
 .project
 .gitignore
-*.gitignore
-
+wrapper/
 
 target/
 .settings/
