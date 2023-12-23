@@ -21,4 +21,6 @@ public class HelloController {
         return "you-template";
     }
 
+    @GetMapping
+    public String;
 }
